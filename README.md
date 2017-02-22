@@ -1,5 +1,6 @@
 # Eden
 [UTSC Sustainability Maker Challenge]
+
 An Android application that calculates the amount of carbon an individual produces from everyday consumption of food.
 We believe in climate change and making a difference in the future. We challenge the status quo by promoting a healthy lifestyle while consuming food that we need and not want. 
 
