@@ -1,1 +1,1 @@
-# eden-app
+# [Eden]
